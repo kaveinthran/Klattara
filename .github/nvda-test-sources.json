@@ -1,0 +1,14 @@
+{
+  "x64": {
+    "revision": "f62c980589d1ac30babf68ad48177e9ad29a2e84",
+    "release": "2026.2",
+    "python": "3.13",
+    "architecture": "x64"
+  },
+  "x86": {
+    "revision": "8680e63bec208df2621aef3c83d5bef8325f2a22",
+    "release": "2025.1",
+    "python": "3.11",
+    "architecture": "x86"
+  }
+}
